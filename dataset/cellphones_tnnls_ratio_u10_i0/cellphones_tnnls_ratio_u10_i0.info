@@ -1,0 +1,20 @@
+2023-05-13 03:17:05.582: 
+columns = UIRT
+filename = dataset/cellphones_tnnls.rating
+sep = ,
+item_min = 0
+user_min = 10
+remap_user_id = True
+remap_item_id = True
+split_by = ratio
+train = 0.8
+valid = 0.0
+test = 0.2
+by_time = True
+2023-05-13 03:17:05.582: Data statistic:
+2023-05-13 03:17:05.582: The number of users: 9534
+2023-05-13 03:17:05.582: The number of items: 53479
+2023-05-13 03:17:05.582: The number of ratings: 139141
+2023-05-13 03:17:05.582: Average actions of users: 14.59
+2023-05-13 03:17:05.582: Average actions of items: 2.60
+2023-05-13 03:17:05.582: The sparsity of the dataset: 99.972710%

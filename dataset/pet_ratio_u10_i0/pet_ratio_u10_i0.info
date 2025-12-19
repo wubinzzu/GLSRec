@@ -1,0 +1,20 @@
+2024-04-02 14:14:03.431: 
+columns = UIRT
+filename = dataset/pet.rating
+sep = ,
+item_min = 0
+user_min = 10
+remap_user_id = True
+remap_item_id = True
+split_by = ratio
+train = 0.8
+valid = 0.0
+test = 0.2
+by_time = True
+2024-04-02 14:14:03.431: Data statistic:
+2024-04-02 14:14:03.432: The number of users: 3901
+2024-04-02 14:14:03.432: The number of items: 8207
+2024-04-02 14:14:03.432: The number of ratings: 59337
+2024-04-02 14:14:03.432: Average actions of users: 15.21
+2024-04-02 14:14:03.432: Average actions of items: 7.23
+2024-04-02 14:14:03.432: The sparsity of the dataset: 99.814662%
