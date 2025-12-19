@@ -25,7 +25,7 @@ If the compilation is successful, the evaluator of cpp implementation will be ca
 
 ## Examples to run GLSRec:
 
-run [main.py](https://github.com/wubinzzu/GCARec/blob/main/main.py) in IDE or with command line:
+run [main.py](https://github.com/wubinzzu/GLSRec/blob/main/main.py) in IDE or with command line:
 
 ```
 python main.py
