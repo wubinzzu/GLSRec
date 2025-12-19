@@ -23,7 +23,7 @@ python setup.py build_ext --inplace
 
 If the compilation is successful, the evaluator of cpp implementation will be called automatically. Otherwise, the evaluator of python implementation will be called.
 
-## Examples to run GCARec:
+## Examples to run GLSRec:
 
 run [main.py](https://github.com/wubinzzu/GCARec/blob/main/main.py) in IDE or with command line:
 
